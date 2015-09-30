@@ -106,9 +106,9 @@ body{
     width: 100px;
     height: 100px;
     margin: -75px 0 0 -75px;
-    border-radius: 50%;
-    border: 3px solid transparent;
-    border-top-color: #A6DB52;
+    border-radius: 70%;
+    border: 5px solid transparent;
+    border-top-color: #CD8840;
 
     -webkit-animation: spin 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
     animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
@@ -122,9 +122,9 @@ body{
     left: 1px;
     right: 1px;
     bottom: 1px;
-    border-radius: 50%;
-    border: 3px solid transparent;
-    border-top-color: #5B9805;
+    border-radius: 70%;
+    border: 5px solid transparent;
+    border-top-color: #89692D;
 
     -webkit-animation: spin 3s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
     animation: spin 3s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
@@ -137,9 +137,9 @@ body{
     left: 10px;
     right: 10px;
     bottom: 10px;
-    border-radius: 50%;
-    border: 3px solid transparent;
-    border-top-color: #29752B;
+    border-radius: 70%;
+    border: 7px solid transparent;
+    border-top-color: #3E3020;
 
     -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
       animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
