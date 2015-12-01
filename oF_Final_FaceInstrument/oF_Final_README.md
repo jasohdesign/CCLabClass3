@@ -11,3 +11,7 @@ By moving your face in dynamic ways, you can create different compositions of mu
  
 Demo Video:
 [Face Instrument on Vimeo](https://vimeo.com/147527317)
+
+Credit: 
+Kyle McDonald FaceTracker
+https://github.com/kylemcdonald/ofxFaceTracker/tree/master/example-expression
