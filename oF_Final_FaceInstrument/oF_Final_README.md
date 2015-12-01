@@ -10,4 +10,4 @@ For example, when your mouth is opened wide, African drum beats are turned on. W
 By moving your face in dynamic ways, you can create different compositions of music. 
  
 Demo Video:
-[Bedside Whisper on Vimeo](https://vimeo.com/147527317)
+[Face Instrument on Vimeo](https://vimeo.com/147527317)
